@@ -8,22 +8,26 @@ Visual components and Python
 ## Theory:
 Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
-![image](1.png)
+![1](https://github.com/arshatha-palanivel/Single-server-infinite-capacity---Markov-Model/assets/118682484/bd1bbd98-d4c5-4be1-b305-7ef9e1c14771)
+
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
 
-![imAGE](2.png)
+![2](https://github.com/arshatha-palanivel/Single-server-infinite-capacity---Markov-Model/assets/118682484/d0b2c7ae-8fa7-4bff-96f3-af0fc16e4725)
+
 
 
 
 ## Experiment:
 
-![](./3.png)
+![3](https://github.com/arshatha-palanivel/Single-server-infinite-capacity---Markov-Model/assets/118682484/9e6a1fa3-f6e4-411d-a6e1-7aa812e3ca81)
+
+![4](https://github.com/arshatha-palanivel/Single-server-infinite-capacity---Markov-Model/assets/118682484/cd7773a7-4791-4292-9ac1-8be698e7d944)
 
 
-![](./4.png)
+
  
 ## Program
 ```
@@ -58,7 +62,8 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
-![](./04.png)
+![04](https://github.com/arshatha-palanivel/Single-server-infinite-capacity---Markov-Model/assets/118682484/0b3476e8-48b9-4aba-b24b-c13c4e1fb815)
+
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
